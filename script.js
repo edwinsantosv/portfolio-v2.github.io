@@ -7,8 +7,22 @@
 
   const i18n = {
     es: {
-      'nav.about': 'Sobre mí', 'nav.skills': 'Skills', 'nav.projects': 'Proyectos',
+      'nav.about': 'Sobre mí', 'nav.skills': 'Skills', 'nav.ai': 'AI Focus', 'nav.projects': 'Proyectos',
       'nav.experience': 'Experiencia', 'nav.education': 'Educación', 'nav.awards': 'Premios', 'nav.contact': 'Contacto',
+
+      'ai.eyebrow': 'Actualmente construyendo',
+      'ai.title': 'IA · MCPs · Automatización',
+      'ai.lead': 'Es donde estoy invirtiendo mi aprendizaje ahora — llevando features reales de GenAI a proyectos con clientes y usando mi propio tooling de IA todos los días.',
+      'ai.c1.title': 'Customer Advocacy Intelligence',
+      'ai.c1.desc': 'Construyendo MCPs custom y catálogos de skills que permiten a Wings4U empaquetar insights de Customer Advocacy como entregables premium con IA para clientes B2B. Puente entre tooling LLM y workflows reales de advocacy.',
+      'ai.c1.role': 'Consultor de Automatización · Wings4U (Praga)',
+      'ai.c2.title': 'Stack personal de IA (OpenClaw)',
+      'ai.c2.desc': 'Framework personal de asistente de IA que uso a diario para automatización doméstica, orquestación de workflows y prototipado rápido de skills. El dogfooding empuja mi trabajo con MCPs en Wings4U — construyo lo que uso.',
+      'ai.c2.cta': 'Explora OpenClaw en GitHub ↗',
+      'ai.c3.title': 'Copiloto IA para analítica',
+      'ai.c3.desc': 'GenAI como copiloto diario para analytics — generación de DAX, debug de SQL, levantamiento de requerimientos con stakeholders y prototipado de MCPs. Convierto horas de trabajo repetitivo en minutos de iteración.',
+      'ai.c3.role': 'Aplicado en CQ Fluency + USMP + trabajo freelance',
+
 
       'hero.badge': 'Business Analyst @ CQ Fluency · Consultor de Automatización @ Wings4U · Abierto a roles de liderazgo',
       'hero.hi': 'Hola, soy',
@@ -129,8 +143,22 @@
       'footer.rights': 'Todos los derechos reservados'
     },
     en: {
-      'nav.about': 'About', 'nav.skills': 'Skills', 'nav.projects': 'Projects',
+      'nav.about': 'About', 'nav.skills': 'Skills', 'nav.ai': 'AI Focus', 'nav.projects': 'Projects',
       'nav.experience': 'Experience', 'nav.education': 'Education', 'nav.awards': 'Awards', 'nav.contact': 'Contact',
+
+      'ai.eyebrow': 'Currently building',
+      'ai.title': 'AI · MCPs · Automation',
+      'ai.lead': "Where I'm investing my learning right now — shipping real GenAI features into client work, and dogfooding my own AI tooling every day.",
+      'ai.c1.title': 'Customer Advocacy Intelligence',
+      'ai.c1.desc': 'Building custom MCPs and skill catalogs that let Wings4U package Customer Advocacy insights into premium AI deliverables for B2B clients. Bridging LLM tooling with real advocacy workflows.',
+      'ai.c1.role': 'Automation Consultant · Wings4U (Prague)',
+      'ai.c2.title': 'Personal AI stack (OpenClaw)',
+      'ai.c2.desc': 'Personal AI assistant framework I use daily for home automation, workflow orchestration and rapid skill prototyping. Dogfooding pushes my MCPs work at Wings4U forward — I ship what I use.',
+      'ai.c2.cta': 'Explore OpenClaw on GitHub ↗',
+      'ai.c3.title': 'AI copilot for analytics',
+      'ai.c3.desc': 'Using GenAI as a daily analytics copilot — DAX generation, SQL debugging, requirements gathering with stakeholders, and MCP prototyping. Turning hours of grind into minutes of iteration.',
+      'ai.c3.role': 'Applied across CQ Fluency + USMP + freelance work',
+
 
       'hero.badge': 'Business Analyst @ CQ Fluency · Automation Consultant @ Wings4U · Open to leadership roles',
       'hero.hi': "Hi, I'm",
